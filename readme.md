@@ -37,9 +37,9 @@
 
 ## License
 
-This work is licensed under a [MIT License](https://github.com/abranhe/algorithms/blob/master/LICENSE)
+This work is released under [MIT License](https://github.com/abranhe/algorithms/blob/master/LICENSE)
 
-[![MIT IMG][mit-license]]((https://github.com/abranhe/algorithms/blob/master/LICENSE))
+[![MIT IMG][mit-license]]((https://github.com/abranhe/algorithms/blob/master/license))
 
 To the extent possible under law, [Carlos Abraham](https://go.abranhe.com/github) has waived all copyright and related or neighboring rights to this work.
 
